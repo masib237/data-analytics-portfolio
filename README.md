@@ -1,6 +1,6 @@
 # Data Analytics Portfolio
 
-Hi, I'm Cindy Kathambi, an entry-level Data Analyst with a background in Computer Science.
+Hi, I'm Cindy Kathambi, a Junior Data Analyst with a background in Computer Science.
 This portfolio showcases practical data analytics projects using SQL, Power BI, Excel, and DAX,
 focused on turning raw data into meaningful business and operational insights.
 
@@ -8,6 +8,7 @@ focused on turning raw data into meaningful business and operational insights.
 - Power BI (Dashboards, DAX, data modeling)
 - Microsoft Excel (Pivot tables, calculated fields, data cleaning)
 - SQL
+- Python for data cleaning
 - Data Analysis & Visualization
 - Business & Educational Analytics
 
@@ -20,13 +21,20 @@ and factors influencing successful completion.
 - Focus: Educational analytics, cohort performance, insights reporting  
 👉 [View Project](https://github.com/masib237/powerbi-graduation-insights)
 
-### 2. Customer Churn Analysis – Databel Telecom (Excel)
+### 2. International Student Admissions Analytics – DePaul University (Power BI & Excel)
+Analyzed international student application and admissions data to identify enrollment trends,
+conversion rates, and operational bottlenecks affecting admission outcomes.
+-Tools: Power BI, Excel, Power Query, DAX
+-Focus: Admissions analytics, data cleaning, dashboard reporting, insights generation
+👉 [View Project](https://github.com/masib237/depaul-international-applications-analysis)
+
+### 3. Customer Churn Analysis – Databel Telecom (Excel)
 Analyzed customer churn drivers and demographic patterns to support retention strategies.
 - Tools: Excel (Pivot Tables, Dashboards)  
 - Focus: Customer analytics, churn drivers  
 👉 [View Project](https://github.com/masib237/customer-churn-analysis)
 
-### 3. Sales Insights – Atliq Hardware (Power BI)
+### 4. Sales Insights – Atliq Hardware (Power BI)
 Built an interactive sales dashboard highlighting regional and product performance.
 - Tools: Power BI, DAX,SQL  
 - Focus: Sales performance, KPIs, trend analysis  
