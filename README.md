@@ -40,5 +40,14 @@ Built an interactive sales dashboard highlighting regional and product performan
 - Focus: Sales performance, KPIs, trend analysis  
 👉 [View Project](https://github.com/masib237/atliq-sales-insights)
 
+
+## Certifications and Reports
+This section documents my formal learning experiences, internships, and evaluations that reflect my growth in data analysis and related skills. It includes certificates of completion as well as performance reports that provide feedback on my work, collaboration with teams, and professional development.
+### 1. Data Visualization Internship — 360° Evaluation Report
+Excelerate
+February 2026
+Completed a remote Data Visualization Internship and received a 360° performance evaluation based on feedback from peers, manager, and self-assessment.
+[View Report here](https://github.com/masib237/depaul-international-applications-analysis/blob/main/Cindy%20Kathambi%20_%20Data%20Visualization%20Trainee%20Early%20Remote%20Internship%20360%20Degree%20Feedback%20Report.pdf) 
+
 ## Contact
 - LinkedIn: www.linkedin.com/in/cindy-kathambi-449515362
